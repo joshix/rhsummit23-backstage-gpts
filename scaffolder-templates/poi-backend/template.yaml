@@ -45,7 +45,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: .apps.cluster-mh5sz.mh5sz.sandbox3033.opentlc.com
+          default: .apps.cluster-vb2wb.vb2wb.sandbox2627.opentlc.com
         namespace: 
           title: Namespace
           type: string
